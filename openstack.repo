@@ -1,0 +1,17 @@
+[osp8]
+baseurl = http://content.example.com/rhosp8.0/x86_64/dvd/rhel-7-server-openstack-8-rpms
+enabled = true
+gpgcheck = false
+name = Red Hat OpenStack 8.0 for RHEL 7 (RPMs)
+
+[director]
+baseurl = http://content.example.com/rhosp8.0/x86_64/dvd/rhel-7-server-openstack-8-director-rpms
+enabled = true
+gpgcheck = false
+name = Red Hat OpenStack 8.0 for RHEL 7 Platform director (RPMs)
+
+[extras]
+baseurl = http://content.example.com/rhosp8.0/x86_64/dvd/rhel-7-server-extras-rpms/
+enabled = true
+gpgcheck = false
+name = RH7 Extras
