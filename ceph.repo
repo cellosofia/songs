@@ -1,7 +1,7 @@
 [Calamari]
 name=Red Hat Ceph Storage Calamari 1.3 for Red Hat Enterprise Linux 7 Server (RPMs)
 baseurl=http://content.example.com/rhosp8.0/x86_64/dvd/rhel-7-server-rhceph-1.3-calamari-rpms
-enabled=0
+enabled=1
 gpgcheck=0
 
 [CephInstaller]
